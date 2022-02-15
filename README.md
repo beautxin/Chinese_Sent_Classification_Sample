@@ -1,2 +1,4 @@
 # Chinese_Sent_Classification_Sample
-A simple Chinese Sentiment Classification sample with pytorch and torchtext
+A simple Chinese Sentiment Classification sample with pytorch and torchtext.
+参考pytorch官网使用pytorch中的torchtext工具，以及pytorch自带的EmbeddingBag模型，制作的一个中文情感分析。
+
